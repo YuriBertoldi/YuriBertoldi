@@ -13,7 +13,6 @@
   <img align="center" alt="Yuri-Mysql"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Yuri-SQLServer"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
-
   
   #### Connect with me:
 <div> 
