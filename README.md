@@ -15,7 +15,9 @@
 
 ### 🧭 Sobre mim
 
-- 🏢 Lidero o time de **Engenharia de Produto** na **Contmatic Phoenix** (Delphi + Go), definindo arquitetura, code review e prioridades técnicas.
+- 🏢 Lidero o time de **Engenharia de Produto** na **Contmatic Phoenix** (Delphi + Go). Código é só parte do trabalho: meu foco é formar pessoas que resolvem problemas de negócio, não só tickets.
+- 🌱 **Desenvolvo carreiras** com 1:1s, feedback contínuo, mentoria e planos de evolução — ver alguém do time assumir um desafio que antes parecia grande demais é a entrega de que mais me orgulho.
+- 🧭 **Dou direção**: conecto estratégia do produto, prioridades técnicas e o próximo passo de cada pessoa, para que o time saiba *por que* está construindo, e não só *o quê*.
 - 🔧 Conduzo a **modernização de base legada**: APIs REST, PostgreSQL/SQL Server e fluxo de versionamento e entrega (SVN → Git).
 - 🤖 Estruturo o uso de **IA no SDLC** — especificação, código, testes e revisão.
 - 🎓 Pós-graduação em **Liderança Técnica** e em **Go** pela **Full Cycle**.
@@ -27,12 +29,12 @@
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
+| **FinBertoldi** 🔒 | Controle financeiro familiar multi-tenant — dashboard, planejamento FIRE, integração bancária (Pluggy/OFX), indicadores Selic/CDI/IPCA e relatórios PDF. Em produção na Oracle Cloud | Go · HTMX · PostgreSQL · Docker · Caddy |
 | [**CtrlLicença**](https://github.com/YuriBertoldi/CtrLicencas) | Sistema web para gestão de licenças Delphi/RAD Studio, componentes e devs — dashboard, auditoria, import/export CSV, controle de acesso | Go · PostgreSQL · Docker · Testes |
 | [**Rate Limiter**](https://github.com/YuriBertoldi/Go-RateLimiter) | Middleware que limita requisições por IP ou token, com bloqueio configurável e HTTP 429 | Go · Redis · Docker |
 | [**Temperatura por CEP + OTel**](https://github.com/YuriBertoldi/Go--TemperaturaPorCEP-OTel) | Dois microsserviços (CEP → cidade → clima) com tracing distribuído | Go · OpenTelemetry · Zipkin |
 | [**Clean Architecture**](https://github.com/YuriBertoldi/Go-Clean-Architecture) | Mesmo caso de uso exposto em REST, gRPC e GraphQL | Go · gRPC · GraphQL · Wire |
 | [**Stress Test CLI**](https://github.com/YuriBertoldi/Go-TestStress) | CLI para teste de carga em endpoints, com nº de requisições e concorrência configuráveis | Go · Concorrência · Docker |
-| [**Delphi Componentes**](https://github.com/YuriBertoldi/Delphi-Componentes) | Componente de paleta visual para aplicações VCL | Delphi · VCL |
 
 ---
 
