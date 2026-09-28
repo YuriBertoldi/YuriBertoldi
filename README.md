@@ -20,7 +20,7 @@
 - 🧭 **Dou direção**: conecto estratégia do produto, prioridades técnicas e o próximo passo de cada pessoa, para que o time saiba *por que* está construindo, e não só *o quê*.
 - 🔧 Conduzo a **modernização de base legada**: APIs REST, PostgreSQL/SQL Server e fluxo de versionamento e entrega (SVN → Git).
 - 🤖 Estruturo o uso de **IA no SDLC** — especificação, código, testes e revisão.
-- 🎓 Pós-graduação em **Liderança Técnica** e em **Go** pela **Full Cycle**.
+- 🎓 Pós-graduações em **Liderança Técnica** e **Go** pela **Full Cycle**, e em **Engenharia de IA**.
 - 📈 Trajetória completa: suporte → tester → dev → sênior → tech lead → coordenação.
 
 ---
