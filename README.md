@@ -29,7 +29,7 @@
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| **FinBertoldi** 🔒 | Controle financeiro familiar multi-tenant — dashboard, planejamento FIRE, integração bancária (Pluggy/OFX), indicadores Selic/CDI/IPCA e relatórios PDF. Em produção na Oracle Cloud | Go · HTMX · PostgreSQL · Docker · Caddy |
+| [**FinBertoldi**](https://github.com/YuriBertoldi/FinBertoldi) ⭐ | Controle financeiro familiar multi-tenant — dashboard, planejamento FIRE, integração bancária (Pluggy/OFX), indicadores Selic/CDI/IPCA e relatórios PDF. Em produção na Oracle Cloud | Go · HTMX · PostgreSQL · Docker · Caddy |
 | [**CtrlLicença**](https://github.com/YuriBertoldi/CtrLicencas) | Sistema web para gestão de licenças Delphi/RAD Studio, componentes e devs — dashboard, auditoria, import/export CSV, controle de acesso | Go · PostgreSQL · Docker · Testes |
 | [**Rate Limiter**](https://github.com/YuriBertoldi/Go-RateLimiter) | Middleware que limita requisições por IP ou token, com bloqueio configurável e HTTP 429 | Go · Redis · Docker |
 | [**Temperatura por CEP + OTel**](https://github.com/YuriBertoldi/Go--TemperaturaPorCEP-OTel) | Dois microsserviços (CEP → cidade → clima) com tracing distribuído | Go · OpenTelemetry · Zipkin |
