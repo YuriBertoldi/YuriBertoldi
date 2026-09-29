@@ -29,7 +29,8 @@
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| [**FinBertoldi**](https://github.com/YuriBertoldi/FinBertoldi) ⭐ | Controle financeiro familiar multi-tenant — dashboard, planejamento FIRE, integração bancária (Pluggy/OFX), indicadores Selic/CDI/IPCA e relatórios PDF. Em produção na Oracle Cloud | Go · HTMX · PostgreSQL · Docker · Caddy |
+| [**FinBertoldi**](https://github.com/YuriBertoldi/FinBertoldi) | Controle financeiro familiar multi-tenant — dashboard, planejamento FIRE, integração bancária (Pluggy/OFX), indicadores Selic/CDI/IPCA e relatórios PDF. Em produção na Oracle Cloud | Go · HTMX · PostgreSQL · Docker · Caddy |
+| [**OpenFiscalBR**](https://github.com/YuriBertoldi/OpenFiscalBR) | Port nativo em Go do projeto ACBr — automação fiscal brasileira: SPED Fiscal (EFD-ICMS/IPI), NFe, CTe, boletos e PIX. API REST + frontend para geração de arquivos SPED | Go · REST API · Docker · LGPL |
 | [**CtrlLicença**](https://github.com/YuriBertoldi/CtrLicencas) | Sistema web para gestão de licenças Delphi/RAD Studio, componentes e devs — dashboard, auditoria, import/export CSV, controle de acesso | Go · PostgreSQL · Docker · Testes |
 | [**Rate Limiter**](https://github.com/YuriBertoldi/Go-RateLimiter) | Middleware que limita requisições por IP ou token, com bloqueio configurável e HTTP 429 | Go · Redis · Docker |
 | [**Temperatura por CEP + OTel**](https://github.com/YuriBertoldi/Go--TemperaturaPorCEP-OTel) | Dois microsserviços (CEP → cidade → clima) com tracing distribuído | Go · OpenTelemetry · Zipkin |
