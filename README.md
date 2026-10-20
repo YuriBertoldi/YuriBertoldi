@@ -34,7 +34,7 @@
 | [**CtrlLicença**](https://github.com/YuriBertoldi/CtrLicencas) | Sistema web para gestão de licenças Delphi/RAD Studio, componentes e devs — dashboard, auditoria, import/export CSV, controle de acesso | Go · PostgreSQL · Docker · Testes |
 | [**Rate Limiter**](https://github.com/YuriBertoldi/Go-RateLimiter) | Middleware que limita requisições por IP ou token, com bloqueio configurável e HTTP 429 | Go · Redis · Docker |
 | [**Temperatura por CEP + OTel**](https://github.com/YuriBertoldi/Go--TemperaturaPorCEP-OTel) | Dois microsserviços (CEP → cidade → clima) com tracing distribuído | Go · OpenTelemetry · Zipkin |
-| [**Clean Architecture**](https://github.com/YuriBertoldi/Go-Clean-Architecture) | Mesmo caso de uso exposto em REST, gRPC e GraphQL | Go · gRPC · GraphQL · Wire |
+| [**Cais**](https://github.com/YuriBertoldi/Cais) | Painel web local para gerenciar containers Docker num único executável, sem instalação — containers, logs ao vivo, stacks do Compose, imagens, volumes e histórico de operações | Go · Docker Engine API · HTML/CSS/JS |
 | [**Stress Test CLI**](https://github.com/YuriBertoldi/Go-TestStress) | CLI para teste de carga em endpoints, com nº de requisições e concorrência configuráveis | Go · Concorrência · Docker |
 
 ---
